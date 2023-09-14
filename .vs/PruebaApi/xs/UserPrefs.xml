@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{8453BD1C-D24B-46E3-97EB-FDD87963179F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PruebaApi/Program.cs">
+    <Files>
+      <File FileName="PruebaApi.Data/Models/Prodycto.cs" />
+      <File FileName="PruebaApi/Configuration/DependencyInjection.cs" />
+      <File FileName="PruebaApi/Program.cs" Line="35" Column="30" />
+      <File FileName="PruebaApi/appsettings.json" />
+      <File FileName="PruebaApi.Domain/Repositories/IRepositoryAsync.cs" />
+      <File FileName="PruebaApi.Domain/Repositories/Impl/RepositoryAsyncImpl.cs" />
+      <File FileName="PruebaApi.Service/Mappers/Dtos/ProdyctoDTO.cs" />
+      <File FileName="PruebaApi.Service/Mappers/Profiles/ProdyctoProfile.cs" />
+      <File FileName="PruebaApi.Service/IProductoService.cs" />
+      <File FileName="PruebaApi.Service/Impl/ProductoServiceImpl.cs" />
+      <File FileName="PruebaApi/Controllers/ProductoController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PruebaApi" expanded="True" selected="True">
+            <Node name="PruebaApi" expanded="True">
+              <Node name="Configuration" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="PruebaApi.Data" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.PruebaApi PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

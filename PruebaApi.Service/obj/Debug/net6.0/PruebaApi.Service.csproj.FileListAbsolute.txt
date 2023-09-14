@@ -1,0 +1,17 @@
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Service/bin/Debug/net6.0/PruebaApi.Service.deps.json
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Service/bin/Debug/net6.0/PruebaApi.Service.dll
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Service/bin/Debug/net6.0/PruebaApi.Service.pdb
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Service/bin/Debug/net6.0/PruebaApi.Data.dll
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Service/bin/Debug/net6.0/PruebaApi.Domain.dll
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Service/bin/Debug/net6.0/PruebaApi.Domain.pdb
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Service/bin/Debug/net6.0/PruebaApi.Data.pdb
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Service/obj/Debug/net6.0/PruebaApi.Service.csproj.AssemblyReference.cache
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Service/obj/Debug/net6.0/PruebaApi.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Service/obj/Debug/net6.0/PruebaApi.Service.AssemblyInfoInputs.cache
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Service/obj/Debug/net6.0/PruebaApi.Service.AssemblyInfo.cs
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Service/obj/Debug/net6.0/PruebaApi.Service.csproj.CoreCompileInputs.cache
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Service/obj/Debug/net6.0/PruebaApi.Service.csproj.CopyComplete
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Service/obj/Debug/net6.0/PruebaApi.Service.dll
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Service/obj/Debug/net6.0/refint/PruebaApi.Service.dll
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Service/obj/Debug/net6.0/PruebaApi.Service.pdb
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Service/obj/Debug/net6.0/ref/PruebaApi.Service.dll

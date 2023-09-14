@@ -1,0 +1,14 @@
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Data/bin/Debug/net6.0/PruebaApi.Data.deps.json
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Data/bin/Debug/net6.0/PruebaApi.Data.runtimeconfig.json
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Data/bin/Debug/net6.0/PruebaApi.Data.dll
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Data/bin/Debug/net6.0/PruebaApi.Data.pdb
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Data/obj/Debug/net6.0/PruebaApi.Data.csproj.AssemblyReference.cache
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Data/obj/Debug/net6.0/PruebaApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Data/obj/Debug/net6.0/PruebaApi.Data.AssemblyInfoInputs.cache
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Data/obj/Debug/net6.0/PruebaApi.Data.AssemblyInfo.cs
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Data/obj/Debug/net6.0/PruebaApi.Data.csproj.CoreCompileInputs.cache
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Data/obj/Debug/net6.0/PruebaApi.Data.dll
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Data/obj/Debug/net6.0/refint/PruebaApi.Data.dll
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Data/obj/Debug/net6.0/PruebaApi.Data.pdb
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Data/obj/Debug/net6.0/PruebaApi.Data.genruntimeconfig.cache
+/Users/marioandresserranouruena/Projects/visual-studio/PruebaApi/PruebaApi.Data/obj/Debug/net6.0/ref/PruebaApi.Data.dll
